@@ -36,9 +36,6 @@
     <li>Open source Verilog resources and simulation tools</li>
 </ul>
 
-<h2>Project Diagrams</h2>
-<img src="https://github.com/sumair-ce/Single-Cycle-Processor-Verilog/blob/main/Datapath.png?raw=true" style="height: auto;" />
-<img src="https://github.com/sumair-ce/Single-Cycle-Processor-Verilog/blob/main/ControlUnit.png?raw=true" style="height: auto; margin-top: 20px;" />
 
 </body>
 </html>
