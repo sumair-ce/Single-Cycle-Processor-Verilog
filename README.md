@@ -17,6 +17,16 @@
     <li>Simulation and testing support for verification</li>
 </ul>
 
+<h2>Implemented Instructions</h2>
+<ul>
+    <li><code>beq</code> - Branch if Equal</li>
+    <li><code>R-type</code> - Arithmetic and logical operations</li>
+    <li><code>lw</code> - Load Word</li>
+    <li><code>sw</code> - Store Word</li>
+    <li><code>j</code> - Jump</li>
+    <li><code>lui</code> - Load Upper Immediate</li>
+</ul>
+
 <h2>Usage</h2>
 <p>This single cycle processor is designed to execute each instruction within one clock cycle, ideal for understanding the fundamental aspects of processor operation and datapath control in CPU design.</p>
 
